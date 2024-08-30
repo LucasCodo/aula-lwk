@@ -1,0 +1,4 @@
+lwk
+maturin
+maturin[patchelf]
+uniffi-bindgen
